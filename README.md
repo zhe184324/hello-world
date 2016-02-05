@@ -1,2 +1,3 @@
 # hello-world
-just a repository
+
+I am work in china patant hongkong company
